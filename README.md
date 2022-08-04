@@ -8,8 +8,7 @@
 * Line Laser
 
 ## Mechanism
-![image](./_tmp/1.jpg)
-<img src="./_tmp/1.jpg" width="200" height="200" alt="微信小程序"/><br/>
+<img src="./_tmp/1.jpg" width="600" height="600" alt="機構圖"/><br/>
 ## Demo from D435i
 ```
 cd d435i/

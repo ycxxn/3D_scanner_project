@@ -11,6 +11,7 @@
 <img src="./_tmp/1.jpg" width="360" height="360" alt="機構圖"/><br/>
 ## Demo
 <img src="./_tmp/2.gif" width=360 height=640/>
+<img src="./_tmp/3.gif" width=640 height=360/>
 
 
 

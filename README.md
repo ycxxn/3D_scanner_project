@@ -5,6 +5,7 @@
 * RealSense D435i
 * Arduino
 * Rotary platform
+* Line Laser
 
 ## Mechanism
 ## Demo from D435i

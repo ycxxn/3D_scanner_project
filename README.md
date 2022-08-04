@@ -10,8 +10,7 @@
 ## Mechanism
 <img src="./_tmp/1.jpg" width="360" height="360" alt="機構圖"/><br/>
 ## Demo
-<gif src="./_tmp/2.gif" width="360" height="360" alt="機構圖2"/><br/>
-<img src="./_tmp/2.gif" width=200 height=360 />
+<img src="./_tmp/2.gif" width=360 height=640/>
 
 
 

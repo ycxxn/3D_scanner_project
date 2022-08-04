@@ -10,7 +10,8 @@
 ## Mechanism
 <img src="./_tmp/1.jpg" width="360" height="360" alt="機構圖"/><br/>
 ## Demo
-<gif src="./_tmp/2.gif" width="360" height="360" alt="機構圖"/><br/>
+<gif src="./_tmp/2.gif" width="360" height="360" alt="機構圖2"/><br/>
+
 ## Demo from D435i
 ```
 cd d435i/

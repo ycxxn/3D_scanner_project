@@ -12,13 +12,10 @@
 ## Demo
 <img src="./_tmp/2.gif" width=360 height=640/>
 <img src="./_tmp/3.gif" width=640 height=360/>
+## Video
+Link: https://www.youtube.com/watch?v=64a1UlJgN24
 
 
-
-作者：SimpleBK
-链接：https://www.jianshu.com/p/20131a0105f5
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 ## Demo from D435i
 ```

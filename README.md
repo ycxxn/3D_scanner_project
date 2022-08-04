@@ -8,6 +8,7 @@
 * Line Laser
 
 ## Mechanism
+![image](./_tmp/1.jpg)
 ## Demo from D435i
 ```
 cd d435i/
